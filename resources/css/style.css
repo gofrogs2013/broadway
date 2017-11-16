@@ -25,7 +25,7 @@ p {
 	background-image: url("../images/the-flatiron-building.png");
 }
 
-.header {
+#header {
 	color: white;
 	font-size: 70px;
 	font-weight: bold;
