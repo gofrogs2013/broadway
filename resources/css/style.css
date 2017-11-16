@@ -3,6 +3,10 @@
 	text-align: center;
 }
 
+a {
+	color: white;
+}
+
 h1 {
 	color: white;
 	font-size: 70px;
@@ -28,10 +32,17 @@ p {
 	font-size: 14px;
 }
 
-.designed-in-new-york {
+.flatiron {
+	background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+#designed-in-new-york {
 	color: white;
 }
 
-.flatiron {
-	background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+#footer {
+	background-color: dimgray;
+	color: white;
+	font-size: 11px;
+	text-align: left;
 }
